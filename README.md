@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/codelemon18?label=Follow&style=social)](https://github.com/codelemon18) [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCuq7jVzBdhTLwCVwJyfOQ_Q)](https://www.youtube.com/@code.lemon18) [![wakatime](https://wakatime.com/badge/user/9a5f4d45-fff8-470f-813d-15945f5aee6c.svg)](https://wakatime.com/@9a5f4d45-fff8-470f-813d-15945f5aee6c)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelemon18&count_private=true) [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codelemon18&layout=compact)](https://github.com/codelemon18)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codelemon18\&count_private=true\&include_all_commits=true) [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codelemon18&layout=compact)](https://github.com/codelemon18)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codelemon18&layout=compact)](https://github.com/codelemon18)
 <!-- Streak stats (Light mode) -->
 <div align="center">
