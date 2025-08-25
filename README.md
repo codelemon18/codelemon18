@@ -7,7 +7,7 @@ I'm a beginner developer
 <div align="center">
   <a href="https://github.com/codelemon18#gh-light-mode-only">
     <img
-       src="https://github-profile-trophy.vercel.app/?username=codelemon18&theme=light&no-frame=true"
+       src="https://trophygh.kolioaris.xyz/?username=codelemon18&theme=light&no-frame=true"
        alt="trophy"
      />
   </a>
@@ -15,7 +15,7 @@ I'm a beginner developer
 <div align="center">
   <a href="https://github.com/codelemon18#gh-dark-mode-only">
     <img
-       src="https://github-profile-trophy.vercel.app/?username=codelemon18&theme=onedark&no-frame=true"
+       src="https://trophygh.kolioaris.xyz/?username=codelemon18&theme=onedark&no-frame=true"
        alt="trophy"
      />
   </a>
