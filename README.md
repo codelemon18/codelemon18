@@ -49,10 +49,6 @@ I'm a beginner developer
 <div align="center">
   <a href="https://github.com/codelemon18#gh-light-mode-only">
     <img
-       src="https://github-readme-stats-tawny-eta-38.vercel.app/api/wakatime?username=codelemon18&layout=compact&theme=light&hide_border=true"
-       alt="lemon's WakaTime stats"
-     />
-    <img
       src="https://github-readme-stats-tawny-eta-38.vercel.app/api/top-langs/?username=codelemon18&layout=compact&theme=light&hide_border=true"
       alt="Top Langs"
     />
@@ -61,10 +57,6 @@ I'm a beginner developer
 
 <div align="center">
   <a href="https://github.com/codelemon18#gh-dark-mode-only">
-    <img
-       src="https://github-readme-stats-tawny-eta-38.vercel.app/api/wakatime?username=codelemon18&layout=compact&theme=dark&hide_border=true"
-       alt="lemon's WakaTime stats"
-     />
     <img
       src="https://github-readme-stats-tawny-eta-38.vercel.app/api/top-langs/?username=codelemon18&layout=compact&theme=dark&hide_border=true"
       alt="Top Langs"
